@@ -1,6 +1,7 @@
+# AgunPon
 ![Banner](doc/img/Agunpon.jpeg)
 
-# AgunPon
+## Description
 ---
 AgunPon adalah sebuah proyek untuk melakukan perhitungan matematika menggunakan model GPU. Proyek ini masih dalam tahap eksperimen.
 
